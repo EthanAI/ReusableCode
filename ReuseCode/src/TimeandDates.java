@@ -1,5 +1,12 @@
+import java.awt.EventQueue;
+
 
 public class TimeandDates {
+	
+    public static void main(String[] args) {
+    	System.out.println("Eclipse test ok");
+    }
+  
         
         /*
          * getHourLineAngles(double latitude, double longitude, int date)
