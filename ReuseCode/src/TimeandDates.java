@@ -1,6 +1,3 @@
-import java.awt.EventQueue;
-
-
 public class TimeandDates {
 	
     public static void main(String[] args) {
